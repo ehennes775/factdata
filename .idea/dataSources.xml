@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="fproddata.sqlite" uuid="111e6617-2d22-4a56-a963-3351ed308387">
+    <data-source source="LOCAL" name="factdata.sqlite" uuid="1aa4bc11-6f87-4557-801e-2a4a7946c9dd">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
+      <remarks>Factorio Database</remarks>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:fproddata.sqlite</jdbc-url>
+      <jdbc-url>jdbc:sqlite:factdata.sqlite</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
