@@ -1,2 +1,2 @@
 # factdata
-A database containing Factorio Data
+A database containing Factorio data
